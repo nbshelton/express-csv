@@ -4,7 +4,7 @@
 , "version": "0.7.0"
 , "author": "Nick Shelton <nickbshelton@gmail.com> (Forked from Seiya Konno)"
 , "contributors": [
-  , { "name": "Seiya Konno", "web": "nulltask@gmail.com" }
+    { "name": "Seiya Konno", "web": "nulltask@gmail.com" }
   , { "name": "Matthew Blackshaw", "web": "http://mattblackshaw.com" }
   , { "name": "Craig McDonald", "web": "http://thrackle.com" }
   ]

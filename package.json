@@ -1,10 +1,11 @@
 {
   "name": "express-csv"
 , "description": "express-csv provides response csv easily to express."
-, "version": "0.6.0"
-, "author": "Seiya Konno <nulltask@gmail.com>"
+, "version": "0.7.0"
+, "author": "Nick Shelton <nickbshelton@gmail.com> (Forked from Seiya Konno)"
 , "contributors": [
-    { "name": "Matthew Blackshaw", "web": "http://mattblackshaw.com" }
+  , { "name": "Seiya Konno", "web": "nulltask@gmail.com" }
+  , { "name": "Matthew Blackshaw", "web": "http://mattblackshaw.com" }
   , { "name": "Craig McDonald", "web": "http://thrackle.com" }
   ]
 , "devDependencies": {
@@ -14,7 +15,7 @@
   , "express": "2"
   }
 , "keywords": ["express", "csv"]
-, "repository": "git://github.com/nulltask/express-csv.git"
+, "repository": "git://github.com/nbshelton/express-csv.git"
 , "main": "index"
 , "engines": {
     "node": "0.6 || 0.8 || 0.10"
